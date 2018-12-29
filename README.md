@@ -3,8 +3,8 @@
 
 #### Lista de comandos:
 Configurar nuestro usuario de git para poder hacer `push` y `pull` a github 
-```git config --global user.name "Nombre"
-git config --global user.email "email@algo.com"
+```git config --global user.name "Nombre"```
+```git config --global user.email "email@algo.com"
 ```
 
 Crear un repo en local
